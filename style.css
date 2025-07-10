@@ -234,7 +234,7 @@ main {
     padding: 80px 0;
 }
 
-.row__second{
+.row__section{
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -292,6 +292,7 @@ main {
     padding: 20px;
     border: 1px solid #e5e7eb;
     border-radius: 500px;
+   
 }
 
 .service__img {
